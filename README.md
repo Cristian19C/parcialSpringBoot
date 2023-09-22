@@ -11,8 +11,8 @@ ruta de swaggers donde encuentras los enpoint del proyecto
 - http://localhost:8080/eventos
 - http://localhost:8080/actividades
 
-Herramientas
-JDK 19
-JPA
-Swagger
-MySQL
+# Herramientas
+- JDK 19
+- JPA
+- Swagger
+- Supabase
